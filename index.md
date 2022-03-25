@@ -63,7 +63,7 @@ Electrical & Instrumentation – Colour coating line & Galvalume Line
 ### Education 
 
 *   IIIT - Banglore 
-*   Exective Post graduation : Machine Learning and AI
+*   Executive Post graduation : Machine Learning and AI
   
 *   Yeshwantrao Chavan College Of Engineering Nagpur
 *   BE in Electronics Engineering / 8.45 CGPA
