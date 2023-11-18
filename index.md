@@ -8,38 +8,55 @@ Business Objective: Determinants of Default The company wants to understand the 
 
 https://github.com/omkarkurve/Lending-Club-Case-Study
 
-##  Predictive ML based module for closed loop control of process parameters
+Generating Daily Power Report 220kv substation Mar 22 – Oct 22
+• Objective: To integrate all Ems power consumption readings and publishing via interactive dashboard at JSW Kalmeshwar
+• Solution: All Ems meters integrated and power consumption published with help of power BI tool
+• Key Achievement: Now better understanding daily power consumption and will help to predict auto power scheduling.\
 
-> Collection of process data and cleaning of it. After visualising data and linear regression found oven strip temperature is 
-affecting the quality of final product. So based on it implemented pyrometer controlled closed loop process parameters.
-• Python, NumPy, Pandas and linear regression, Matplotlib and advance excel.
+Closed loop control of process parameters Aug-21 – Jan 22
+• Objective: An engineering team was facing issues with Quality issue due to process parameters.
+• Solution: Designed Linear regression to predict the delta E value of quality.
+• Key Achievement: Predicted that from oven 4 PMT value contributing in delta E variation with a score of 0.91
 
-##  College project: - Semi-Auto Pick and Place Robot
-
-> Semi-Automatic pick and place robot and metal sorting, thing speak & EPS8266 wireless system with Arduino & IoT 
-• Customized application built to control it; Programming Languages used: Basic knowledge of C, python • Software 
-Packages: Arduino IDE and interfacing, MIT APP Inventor, Think Speak & Blynk
-
+College project: Telecom Churn prediction - IIIT, Bangalore
+• Build ML models to predict churn
+• PCA used with random forest as model and AUC score 0.89
+• Telecom company needs to pay attention to the roaming rates. They need to provide good offers to the customers who
+are using services from a roaming zone.
 
 ## PROFESSIONAL EXPERIENCE 
 
-JSW Steel Coated Products Ltd Kalmeshwar, Nagpur |
-Assistant Manager (Sept-21-Present) - Junior Manager (June-18-Oct-21) 
-
-Working at Kalmeshwar complex houses having cold rolling complex, galvanized plain/ galvanized corrugated (GP/GC), Colour
-coated Sheet/Coil, and Tile profile lines. 
-
+Gabriel India Ltd, Head Office, Pune MH Assistant Manager (Dec 22-Present)
+Gabriel India Ltd is a leading automotive component manufacturer, renowned for its innovative suspension and ride control
+solutions, serving the global automotive industry.
+IIoT, Digital transformation
+• Led end-to-end project execution for MES implementation at Gabriel India, ensuring alignment with the established
+roadmap.
+• Managing concurrent digital transformation initiatives and projects across various plant locations.
+• In house development of IIoT platforms for the production monitoring, Traceability and quality control.
+• In house IT/OT integration right from various sensors to PLCs and storing data into db.
+• Identification of the business needs context to digital transformation, floating technical RFQ as per the project need,
+handling the its procurement.
 Data Science
-• Selected for JSW Data science position and successfully completed training on MATLAB fundamentals.
-• Knowledge of Python, NumPy, Pandas, Matplotlib and other libraries.
-• MySQL, Linear regression, Machine Learning, Advance Excel.
-
-Electrical & Instrumentation – Colour coating line & Galvalume Line 
-• Analysis of production line data includes data cleaning, visualizing and predictive maintenance based on it. 
-• PLC- Simense, Allen Bradly - Rs Logix 5000, GE-Fanuc, AC & DC VFD. 
-• Material procurement and spare management via SAP Ariba & MM 
-• Implementation of kaizen, Poka-Yoke, 5S, TQM to improve production and quality.
-
+• Implementation of data science and machine learning projects as per the targeted KPIs.
+Key skills
+• Complete MES Project management.
+• OPC Software - Kepware, PTC Products, PSI Software.
+• Python, NodeJS, Node RED.
+• Hardware – IT/OT Integration, Expertise in PLC data aggregation from various types of sensors and its logic design.
+• Data base: MySQL, PostgreSQL, MongoDB
+• Visualization tools – Power BI, Power Apps
+• Statistical knowledge, Inferential statistics, Hypothesis, EDA.
+• Machine Learning –Supervised/ Unsupervised Learning.
+JSW Steel Ltd, Coated Division, Nagpur MH | Assistant Manager (Sept-21-Dec-23) - Junior Manager (June-18-Oct-21)
+IIoT, Digital transformation, Automation
+• Integration of MES system with level 2 automation for industrial 4.O.
+• PSI Software – Predictive Quality Tool, Maintenance Tool.
+• IT/OT Integration for the continuous production lines.
+• Experience on various PLCs like Rockwell Allen Bradley, Simense, Mitsubishi, ABB Etc.
+• Erection and commissioning of automation projects.
+Data Science
+• Develop advanced predictive and prescriptive analytic solutions for JSW Group business using various data
 
 * * *
 
